@@ -1,9 +1,9 @@
 === Image Slider Responsive ===
 Contributors: sayful
 Tags: slider, image slider, images, wordpress slider, jquery slider, responsive
-Requires at least: 2.9
-Tested up to: 4.1
-Stable tag: 1.2
+Requires at least: 3.5
+Tested up to: 4.2
+Stable tag: 2.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,27 +13,8 @@ A WordPress Image slider based on FlexSlider to display image slider on post, pa
 
 A WordPress Image slider based on FlexSlider to display image slider on post, page or theme. It's an easy, simple & responsive slider, which looks awesome in every single theme.
 
-Just create your slides from the Slider menu & paste the following shortcode where you want to display this theme:
+Just create your slides from the Slider menu & paste the generated shortcode where you want to display this slide:
 
-`[all_slider]`
-
-Or you can paste following to add slider to your theme:
-
-`<?php echo do_shortcode('[all_slider]'); ?>`
-
-If you want to use multiple slider at diffrent page or post at your theme write the following code
-
-`[slider][slides image_link=''][/slider]`
-
-Repeat "[slides image_link='']" as many image as you want. Inside image_link='' put you image link like "http://lorempixel.com/400/200/sports/1/"
-
-<h1>Features</h1>
-
-1. Fully Responsive 
-2. Unlimited Slides
-3. Supported in all major browsers
-4. Hardware accelerated touch swipe support
-5. Custom Post and Shortcode system
 
 == Installation ==
 

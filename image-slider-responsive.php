@@ -3,7 +3,7 @@
  * Plugin Name:       Image Slider Responsive
  * Plugin URI:        https://wordpress.org/plugins/image-slider-responsive/
  * Description:       A WordPress plugin to include image slider into your theme.
- * Version:           1.0.0
+ * Version:           2.0.0
  * Author:            Sayful Islam
  * Author URI:        https://profiles.wordpress.org/sayful/
  * License:           GPL-2.0+
