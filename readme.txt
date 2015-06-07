@@ -15,6 +15,10 @@ A WordPress Image slider based on FlexSlider to display image slider on post, pa
 
 Just create your slides from the Slider menu & paste the generated shortcode where you want to display this slide:
 
+= Video Descripton of Usage =
+
+https://www.youtube.com/watch?v=jYw12KLayVk
+
 
 == Installation ==
 
