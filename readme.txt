@@ -1,6 +1,6 @@
 === Image Slider Responsive ===
 Contributors: sayful
-Tags: slider, image slider, images, wordpress slider, jquery slider, responsive
+Tags: slider, image slider, FlexSlider, FlexSlider2, images, wordpress slider, jquery slider, responsive
 Requires at least: 3.5
 Tested up to: 4.2
 Stable tag: 2.0.0
